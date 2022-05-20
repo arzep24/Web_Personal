@@ -1,0 +1,11 @@
+{
+  "name": "frontwp",
+  "version": "1.0.0",
+  "description": "FrontEnd Technology of personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ARDEV",
+  "license": "ISC"
+}
